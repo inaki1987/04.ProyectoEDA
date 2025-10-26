@@ -30,6 +30,7 @@ Estos conjuntos de datos están relacionados con campañas de marketing directo 
 ●	**id_**: Un identificador único para cada registro en el dataset.  
 
 El segundo set de datos ('customer-details.xlsx') es un archivo Excel que nos da información sobre las características demográficas y comportamiento de compra de los clientes del banco. Este Excel consta de 3 hojas de trabajo diferentes, en cada una de ellas tenemos los clientes que entraron en el banco en diferentes años. Sus columnas son:  
+
 ●	**Income**: Representa el ingreso anual del cliente en términos monetarios.  
 ●	**Kidhome**: Indica el número de niños en el hogar del cliente.  
 ●	**Teenhome**: Indica el número de adolescentes en el hogar del cliente.  
