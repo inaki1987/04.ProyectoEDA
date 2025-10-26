@@ -1,9 +1,8 @@
 # Proyecto-EDA Python
-##Objetivo del proyecto
-
-Objetivo del proyecto.
+## Objetivo del proyecto
 Realizar un análisis exploratorio de los datos contenidos en los archivos bank-additional.csv y customer-details.xlsx
 
+## Archivos de datos
 Estos conjuntos de datos están relacionados con campañas de marketing directo de una institución bancaria portuguesa. Las campañas de marketing se basaron en llamadas telefónicas. A menudo, se requería más de un contacto con el mismo cliente para determinar si el producto (depósito a plazo bancario) sería suscrito o no. Las columnas que tenemos en el primer dataset ('bank-additional.csv') son:
 ●	age: La edad del cliente.
 ●	job: La ocupación o profesión del cliente.
