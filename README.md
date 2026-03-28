@@ -37,3 +37,77 @@ El segundo set de datos ('customer-details.xlsx') es un archivo Excel que nos da
 ●	**Dt_Customer**: Representa la fecha en que el cliente se convirtió en cliente de la empresa.  
 ●	**NumWebVisitsMonth**: Indica la cantidad de visitas mensuales del cliente al sitio web de la empresa.  
 ●	**ID**: Identificador único del cliente.  
+
+
+
+
+
+
+
+
+
+
+
+## Analisis de los datos
+Descripción general del perfil de los clientes con conversión positiva
+Tras filtrar los registros donde el cliente ha suscrito el producto (y = "yes"), se observa un conjunto de patrones comunes:
+
+1. Edad
+Los clientes que convierten suelen situarse mayoritariamente entre 30 y 55 años, con un pico alrededor de los 40 años. Esto sugiere que el producto ofrecido resulta más atractivo para personas en etapa de estabilidad laboral y financiera.
+
+2. Profesión
+Las profesiones más frecuentes entre los clientes que convierten son:
+
+administrativos
+
+técnicos
+
+servicios
+
+gestión
+
+Los desempleados y estudiantes aparecen en menor proporción, lo que indica que la estabilidad laboral influye positivamente en la conversión.
+
+3. Nivel educativo
+Los clientes con estudios:
+
+universitarios
+
+secundarios superiores
+
+presentan una mayor tasa de conversión. Esto puede relacionarse con una mayor comprensión del producto financiero o mayor interés en productos de inversión.
+
+4. Ingresos
+Los clientes que convierten tienden a tener ingresos medios o medio-altos, lo que refuerza la idea de que el producto está orientado a perfiles con cierta capacidad de ahorro.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
